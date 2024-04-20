@@ -1,6 +1,6 @@
 <!-- Background -->
 <div align="center">
-   <img src="https://cdn.jsdelivr.net/gh/JingleCate/BlogImage/bimgs/Cover1.jpeg" alt="bg"/>
+   <img src="./assests/cover3.jpg" alt="bg"/>
 </div>
 
 ## 🚀Intros
