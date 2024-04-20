@@ -20,7 +20,7 @@ Some sites which you may have interest in...
 ## 🔥Activities
 <div align="center"> <img width="700px" src="https://github-readme-activity-graph.vercel.app/graph?username=JingleCate&theme=react-dark&custom_title=Commits" /> </div>
 
-### Lastest blogs
+### Latest blogs
 <!-- BLOG-POST-LIST:START -->
 - [OpenCV手册](https://blog.jinglecath.top/CV/OpenCV%E6%89%8B%E5%86%8C/)
 - [bash脚本基础](https://blog.jinglecath.top/Tools/bash%E8%84%9A%E6%9C%AC%E5%9F%BA%E7%A1%80/)
