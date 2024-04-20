@@ -1,7 +1,8 @@
 name: Latest blog post workflow
 on: 
+    workflow_dispatch:
     schedule:
-        - cron: '00 23 * * *'
+        - cron: '45 23 * * *'
 jobs: 
     update-readme-with-blog: 
         name: Update this repo's README with latest blog posts
@@ -11,4 +12,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://blog.jinglecath.top/"
+                feed_list: "https://blog.jinglecath.top/atom.xml"
