@@ -22,6 +22,10 @@ Some sites which you may have interest in...
 
 ### Lastest blogs
 <!-- BLOG-POST-LIST:START -->
+- [OpenCV手册](https://blog.jinglecath.top/CV/OpenCV%E6%89%8B%E5%86%8C/)
+- [bash脚本基础](https://blog.jinglecath.top/Tools/bash%E8%84%9A%E6%9C%AC%E5%9F%BA%E7%A1%80/)
+- [Neovim快捷键及其配置](https://blog.jinglecath.top/Tools/Neovim%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%8F%8A%E5%85%B6%E9%85%8D%E7%BD%AE/)
+- [Linux命令手册](https://blog.jinglecath.top/Tools/Linux%E5%91%BD%E4%BB%A4%E6%89%8B%E5%86%8C/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✨Statistics
