@@ -1,6 +1,6 @@
 <!-- Background -->
 <div align="center">
-   <img src="./assests/cover3.jpg" alt="bg"/>
+   <img src="./assests/cover6.gif" alt="bg"/>
 </div>
 
 ## 🚀Intros
